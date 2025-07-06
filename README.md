@@ -19,9 +19,6 @@ Git • GitHub • VS Code • Postman • Vercel • Render
 
 ## 📌 Featured Projects
 
-🔗 [Project 1 Name](https://github.com/yourusername/project1) – short description  
-🔗 [Project 2 Name](https://github.com/yourusername/project2) – short description  
-🔗 [More Projects →](https://github.com/yourusername)
 
 ## 📫 Let's Connect
 
