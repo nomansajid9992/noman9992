@@ -23,7 +23,7 @@ Git • GitHub • VS Code • Postman • Vercel • Render
 
 **Project 2:** Resturant Website: https://github.com/nomansajid9992/responsive-website-restaurant
 
-**Project 3:** Responsive Travel Website: https://github.com/nomansajid9992/Responsive-Travel-Website
+**Project 3:** Travel Website: https://github.com/nomansajid9992/Responsive-Travel-Website
 
 
 
